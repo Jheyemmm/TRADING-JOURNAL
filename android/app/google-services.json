@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87895171512",
+    "project_id": "tradermind-b8ab2",
+    "storage_bucket": "tradermind-b8ab2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87895171512:android:fadf039e232c4db3712f4d",
+        "android_client_info": {
+          "package_name": "com.example.tradermind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWNW5L1_VuqtTwStrXy8yaj0XHsYuh4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
